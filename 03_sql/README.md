@@ -18,13 +18,11 @@ This was my first time designing a database schema from the ground up and writin
 
 | File | Purpose |
 |------|---------|
-| `01_schema.sql` | DDL — defines all 9 tables with primary keys and data types |
-| `02_import.py` | Python script that creates `bearlytics.db` and imports all CSVs |
-| `03_validate.sql` | Validation queries — row counts, null checks, duplicate detection, business logic checks |
-| `04_exploratory.sql` | 13 EDA queries — first pass at understanding the data |
-| `05_business.sql` | 15 business-focused queries (BQ-01 through BQ-15) |
-| `06_views.sql` | 7 reusable SQL views used as data sources for Power BI |
-| `bearlytics.db` | The live SQLite database |
+| `schema/01_schema.sql` | DDL — defines all 9 tables with primary keys and data types |
+| `validation/03_validate.sql` | Validation queries — row counts, null checks, duplicate detection, business logic checks |
+| `analysis/04_exploratory.sql` | 13 EDA queries — first pass at understanding the data |
+| `analysis/05_business.sql` | 15 business-focused queries (BQ-01 through BQ-15) |
+| `views/06_views.sql` | 7 reusable SQL views used as data sources for Power BI |
 
 ---
 
