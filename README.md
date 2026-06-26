@@ -103,8 +103,7 @@ Bearlytics Project/
 ├── 04_powerbi/           Power BI report (.pbix) and phase README
 ├── 05_screenshots/       Dashboard screenshots by phase
 ├── 06_documentation/     Phase documentation PDFs
-├── 07_readme/            This file
-└── 08_scripts/           Python ETL and validation scripts
+└── 07_scripts/           Python ETL and validation scripts
 ```
 
 ---
