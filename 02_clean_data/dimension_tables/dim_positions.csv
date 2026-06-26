@@ -1,0 +1,19 @@
+Position_ID,Position,Position_Group
+1,C,Offense
+2,CB,Defense
+3,ED,Defense
+4,FB,Offense
+5,IDL,Defense
+6,K,Special Teams
+7,LB,Defense
+8,LG,Offense
+9,LS,Special Teams
+10,LT,Offense
+11,P,Special Teams
+12,QB,Offense
+13,RB,Offense
+14,RG,Offense
+15,RT,Offense
+16,S,Defense
+17,TE,Offense
+18,WR,Offense

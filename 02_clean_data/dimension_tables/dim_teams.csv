@@ -1,0 +1,33 @@
+Team_ID,Team,Team_Name,Conference,Division,City,Nickname
+1,ARI,Arizona Cardinals,NFC,NFC West,Phoenix,Cardinals
+2,ATL,Atlanta Falcons,NFC,NFC South,Atlanta,Falcons
+3,BAL,Baltimore Ravens,AFC,AFC North,Baltimore,Ravens
+4,BUF,Buffalo Bills,AFC,AFC East,Buffalo,Bills
+5,CAR,Carolina Panthers,NFC,NFC South,Charlotte,Panthers
+6,CHI,Chicago Bears,NFC,NFC North,Chicago,Bears
+7,CIN,Cincinnati Bengals,AFC,AFC North,Cincinnati,Bengals
+8,CLE,Cleveland Browns,AFC,AFC North,Cleveland,Browns
+9,DAL,Dallas Cowboys,NFC,NFC East,Dallas,Cowboys
+10,DEN,Denver Broncos,AFC,AFC West,Denver,Broncos
+11,DET,Detroit Lions,NFC,NFC North,Detroit,Lions
+12,GB,Green Bay Packers,NFC,NFC North,Green Bay,Packers
+13,HOU,Houston Texans,AFC,AFC South,Houston,Texans
+14,IND,Indianapolis Colts,AFC,AFC South,Indianapolis,Colts
+15,JAX,Jacksonville Jaguars,AFC,AFC South,Jacksonville,Jaguars
+16,KC,Kansas City Chiefs,AFC,AFC West,Kansas City,Chiefs
+17,LA,Los Angeles Rams,NFC,NFC West,Los Angeles,Rams
+18,LAC,Los Angeles Chargers,AFC,AFC West,Los Angeles,Chargers
+19,LV,Las Vegas Raiders,AFC,AFC West,Las Vegas,Raiders
+20,MIA,Miami Dolphins,AFC,AFC East,Miami,Dolphins
+21,MIN,Minnesota Vikings,NFC,NFC North,Minneapolis,Vikings
+22,NE,New England Patriots,AFC,AFC East,New England,Patriots
+23,NO,New Orleans Saints,NFC,NFC South,New Orleans,Saints
+24,NYG,New York Giants,NFC,NFC East,New York,Giants
+25,NYJ,New York Jets,AFC,AFC East,New York,Jets
+26,PHI,Philadelphia Eagles,NFC,NFC East,Philadelphia,Eagles
+27,PIT,Pittsburgh Steelers,AFC,AFC North,Pittsburgh,Steelers
+28,SEA,Seattle Seahawks,NFC,NFC West,Seattle,Seahawks
+29,SF,San Francisco 49ers,NFC,NFC West,San Francisco,49ers
+30,TB,Tampa Bay Buccaneers,NFC,NFC South,Tampa Bay,Buccaneers
+31,TEN,Tennessee Titans,AFC,AFC South,Nashville,Titans
+32,WAS,Washington Commanders,NFC,NFC East,Washington,Commanders
