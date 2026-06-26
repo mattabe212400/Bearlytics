@@ -89,7 +89,7 @@ FROM vw_season_summary
 ORDER BY Season;
 ```
 
-![Season Summary](../05_screenshots/season_summary_db_pic.png)
+![Season Summary](../05_screenshots/phase%203/season_summary_db_pic.png)
 
 ---
 
@@ -105,7 +105,7 @@ FROM vw_bears_vs_league
 ORDER BY Season;
 ```
 
-![Bears vs NFL Average](../05_screenshots/bears_vs_nfl_avg_db_pic.png)
+![Bears vs NFL Average](../05_screenshots/phase%203/bears_vs_nfl_avg_db_pic.png)
 
 ---
 
@@ -120,7 +120,7 @@ WHERE Total_Yards > 0
 ORDER BY Guaranteed_M DESC;
 ```
 
-![Salary Efficiency](../05_screenshots/salary_efficiency_db_pic.png)
+![Salary Efficiency](../05_screenshots/phase%203/salary_efficiency_db_pic.png)
 
 ---
 

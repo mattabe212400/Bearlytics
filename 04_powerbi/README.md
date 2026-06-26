@@ -11,7 +11,7 @@ Transforms the validated SQL analytical model from Phase 3 into a fully interact
 
 KPI cards for total wins (68), losses (97), win percentage (41.2%), points scored, points allowed, and turnover differential. Line chart of wins by season, clustered bar chart of points scored vs. allowed, point differential trend line, top offensive players by total yards, and a season-by-season summary table.
 
-![Executive Summary](../05_screenshots/phase 4/executive_dashboard_page_1.png)
+![Executive Summary](../05_screenshots/phase%204/executive_dashboard_page_1.png)
 
 ---
 
@@ -20,7 +20,7 @@ KPI cards for total wins (68), losses (97), win percentage (41.2%), points score
 
 Offensive and defensive rank by season, passing vs. rushing yards trend, scoring offense vs. points allowed, passing vs. rushing touchdowns by season, and turnover differential over time. Season slicer filters all visuals to a single year.
 
-![Team Performance](../05_screenshots/phase 4/team_performance_page_2.png)
+![Team Performance](../05_screenshots/phase%204/team_performance_page_2.png)
 
 ---
 
@@ -29,7 +29,7 @@ Offensive and defensive rank by season, passing vs. rushing yards trend, scoring
 
 KPI cards for total passing yards, rushing yards, receiving yards, receptions, and total players. Top passing, rushing, and receiving leaders by season. Grouped bar chart comparing passing vs. rushing vs. receiving production by year, and touchdown breakdown by type per season. Position and season slicers.
 
-![Player Performance](../05_screenshots/phase 4/player_performance_page_3.png)
+![Player Performance](../05_screenshots/phase%204/player_performance_page_3.png)
 
 ---
 
@@ -38,7 +38,7 @@ KPI cards for total passing yards, rushing yards, receiving yards, receptions, a
 
 KPI cards for total contract value ($1.18bn), average contract value, largest contract, guaranteed money, and average contract length. Investment and guaranteed money breakdowns by position, largest player contracts, cost per win by season, and roster investment trend over time.
 
-![Roster Investment](../05_screenshots/phase 4/roster_investment_page_4.png)
+![Roster Investment](../05_screenshots/phase%204/roster_investment_page_4.png)
 
 ---
 
@@ -47,7 +47,7 @@ KPI cards for total contract value ($1.18bn), average contract value, largest co
 
 Summary KPIs (most wins in a season, least wins, most points scored, least points allowed, best turnover differential, average wins), Bears wins vs. league average, offensive and defensive rank by season, total wins bar chart with average reference line, point differential trend, and written executive observations.
 
-![Franchise Insights](../05_screenshots/phase 4/franchise_insights_page_5.png)
+![Franchise Insights](../05_screenshots/phase%204/franchise_insights_page_5.png)
 
 ---
 
