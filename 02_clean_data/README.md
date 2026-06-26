@@ -70,7 +70,7 @@ By the end of Phase 2 there are 9 files — 5 fact tables and 4 dimension tables
 
 ## ETL Scripts
 
-The ETL scripts live in `08_scripts/etl/` and read from the `_cache/` files written in Phase 1.
+The ETL scripts live in `07_scripts/etl/` and read from the `_cache/` files written in Phase 1.
 
 | Script | Output |
 |--------|--------|
@@ -94,7 +94,7 @@ python 08_scripts/etl/build_nfl_league_stats.py
 
 ## Validation
 
-After ETL, all 9 datasets were audited with `08_scripts/validation/validate_datasets.py`. The script checks row counts, duplicate rows, duplicate primary keys, missing values, season range, numeric types, team abbreviation standardization, and player name whitespace — reporting only, no modifications.
+After ETL, all 9 datasets were audited with `07_scripts/validation/validate_datasets.py`. The script checks row counts, duplicate rows, duplicate primary keys, missing values, season range, numeric types, team abbreviation standardization, and player name whitespace — reporting only, no modifications.
 
 **Fact Table Results**
 
