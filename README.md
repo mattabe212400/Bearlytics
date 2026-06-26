@@ -2,7 +2,7 @@
 
 A full-stack business intelligence project analyzing Chicago Bears franchise performance across ten NFL seasons (2016–2025). Built end-to-end — from raw data collection through SQL modeling to an interactive Power BI dashboard — replicating the analytics workflow used by professional BI teams.
 
-![Executive Dashboard](../05_screenshots/phase 4/executive_dashboard_page_1.png)
+![Executive Dashboard](05_screenshots/phase%204/executive_dashboard_page_1.png)
 
 ---
 
@@ -76,7 +76,7 @@ The validated SQL model was imported into Power BI and rebuilt as a semantic dat
 | Roster Investment | How effectively was roster spending converted into wins? |
 | Franchise Insights | What are the key long-term takeaways? |
 
-![Franchise Insights](../05_screenshots/phase 4/franchise_insights_page_5.png)
+![Franchise Insights](05_screenshots/phase%204/franchise_insights_page_5.png)
 
 ---
 
@@ -84,9 +84,9 @@ The validated SQL model was imported into Power BI and rebuilt as a semantic dat
 
 | | |
 |---|---|
-| ![Executive Summary](../05_screenshots/phase 4/executive_dashboard_page_1.png) | ![Team Performance](../05_screenshots/phase 4/team_performance_page_2.png) |
+| ![Executive Summary](05_screenshots/phase%204/executive_dashboard_page_1.png) | ![Team Performance](05_screenshots/phase%204/team_performance_page_2.png) |
 | **Executive Summary** | **Team Performance** |
-| ![Player Performance](../05_screenshots/phase 4/player_performance_page_3.png) | ![Roster Investment](../05_screenshots/phase 4/roster_investment_page_4.png) |
+| ![Player Performance](05_screenshots/phase%204/player_performance_page_3.png) | ![Roster Investment](05_screenshots/phase%204/roster_investment_page_4.png) |
 | **Player Performance** | **Roster Investment** |
 
 ---
