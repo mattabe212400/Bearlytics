@@ -10,7 +10,7 @@
 
 Phase 1 is where the project starts — pulling raw NFL data from nflverse, an open-source repository of play-by-play data, schedules, player stats, contracts, and team info. All data covers the 2016–2025 regular seasons, giving a full decade of Bears history to work with.
 
-The collection scripts are in `08_scripts/data_collection/` and `08_scripts/etl/`. Nothing in this folder is manually entered — every file here is either downloaded directly from nflverse GitHub releases or computed from those downloads.
+The collection scripts are in `07_scripts/data_collection/` and `07_scripts/etl/`. Nothing in this folder is manually entered — every file here is either downloaded directly from nflverse GitHub releases or computed from those downloads.
 
 ---
 
