@@ -4,6 +4,8 @@ A full-stack business intelligence project analyzing Chicago Bears franchise per
 
 ![Executive Dashboard](05_screenshots/phase%204/executive_dashboard_page_1.png)
 
+**[View Live Dashboard →](https://app.powerbi.com/view?r=eyJrIjoiZDhjMzEwMTYtZjFmMC00NTE0LWIxNDgtZjdiNmUxMDU0YzMwIiwidCI6IjAzNDdkODlhLTAxNzQtNGRkMy1hZGViLTMzMzljODljMzVmNSIsImMiOjN9)**
+
 ---
 
 ## Key Findings
