@@ -126,7 +126,7 @@ ORDER BY Guaranteed_M DESC;
 
 One issue I ran into: the salary data used full player names (`Jordan Howard`, `Mitchell Trubisky`) while the player stats dataset used nflverse abbreviated names (`J.Howard`, `M.Trubisky`). This meant no joins between the two tables worked at all.
 
-I wrote a separate ETL script (`08_scripts/etl/normalize_salary_player_names.py`) to fix this using a 3-pass matching algorithm:
+I wrote a separate ETL script (`07_scripts/etl/normalize_salary_player_names.py`) to fix this using a 3-pass matching algorithm:
 
 - **Pass 1** — exact match
 - **Pass 2** — convert full name to `F.Lastname` format
@@ -147,7 +147,7 @@ python 03_sql/02_import.py
 Then re-apply views and normalize salary names:
 
 ```bash
-python 08_scripts/etl/normalize_salary_player_names.py
+python 07_scripts/etl/normalize_salary_player_names.py
 ```
 
 ---
