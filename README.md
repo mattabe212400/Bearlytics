@@ -33,7 +33,7 @@ A full-stack business intelligence project analyzing Chicago Bears franchise per
 ## Project Phases
 
 ### Phase 1 — Data Collection & Engineering
-> *`01_raw_data/` · `08_scripts/data_collection/`*
+> *`01_raw_data/` · `07_scripts/data_collection/`*
 
 Pulled data directly from the [nflverse](https://github.com/nflverse/nflverse-data) open-source dataset using Python (requests + pandas). Play-by-play files for each season were downloaded and cached locally to avoid redundant network calls. Five datasets were engineered from raw sources — team stats, game logs, player stats, salary data, and league-wide stats — with per-season CSV files written as output.
 
@@ -42,7 +42,7 @@ Pulled data directly from the [nflverse](https://github.com/nflverse/nflverse-da
 ---
 
 ### Phase 2 — Data Validation & Modeling
-> *`02_clean_data/` · `08_scripts/validation/` · `06_documentation/`*
+> *`02_clean_data/` · `07_scripts/validation/` · `06_documentation/`*
 
 All five datasets were validated with automated Python scripts checking for duplicate rows, duplicate primary keys, missing values, season range integrity, and correct data types. Every dataset passed with zero errors across 1,846 total rows.
 
